@@ -26,3 +26,5 @@ TC_018	Proceed to checkout option should present under the order summary
 TC_019 User can delete individual product from the cart
 TC_020	Users can delete all selected product by selecting the product and click on the Delete all option from the table header
 ```
+
+### Here is the execution video link : https://youtu.be/QcYGx8FgcmQ
