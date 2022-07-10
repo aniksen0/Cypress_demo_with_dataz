@@ -1,6 +1,7 @@
-#Cypress Demo script
-###This script written on Cypress on a E-Commerce website (Daraz.com.bd)
-###This script follows POM(Page Object Model) though cypress discourage to follow POM. It is useful when you are handling large website with lots of components and you have to reuse large code and Locators.
+# Cypress Demo script
+
+### This script written on Cypress on a E-Commerce website (Daraz.com.bd)
+### This script follows POM(Page Object Model) though cypress discourage to follow POM. It is useful when you are handling large website with lots of components and you have to reuse large code and Locators.
 
 This script covers:
 ```
