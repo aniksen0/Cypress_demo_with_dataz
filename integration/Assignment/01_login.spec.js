@@ -15,7 +15,7 @@ const password = "password";
 const invalid_pass = "invalid_pass"
 const invalid_email = "invalid_email"
 const short_phone = "12312"
-const unregistered_email = "anik.sen00123@infolytx.com"
+const unregistered_email = "check@gmail.com"
 
 const product_name = "TShirt"
 
