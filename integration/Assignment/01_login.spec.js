@@ -10,8 +10,8 @@ import SearchPage from  "../../PageObject/search";
 const searchpage = new SearchPage ;
 
 
-const number = "anik.sen001@gmail.com";
-const password = "anik@2645";
+const number = "yourmail";
+const password = "password";
 const invalid_pass = "invalid_pass"
 const invalid_email = "invalid_email"
 const short_phone = "12312"
